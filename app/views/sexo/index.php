@@ -10,7 +10,7 @@
 
 <div class="container">
     <h1>Listado de los  Sexos</h1>
-    <a href="/google6b/app/views/sexo/create.php"><button>Agregar Sexo</button></a>
+    <a href="/google6b/app/views/sexo/create.php"><button>Agregar </button></a>
 
     <table>
         <thead>
